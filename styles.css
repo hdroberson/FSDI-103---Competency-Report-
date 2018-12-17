@@ -58,8 +58,8 @@ body {
 }
 
 ul li {
-    display: inline;
-    float: right;
+    display: inline-block;
+    text-align: right;
     padding: 5px;
 }
 
