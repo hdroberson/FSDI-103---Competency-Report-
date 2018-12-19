@@ -61,15 +61,13 @@ h1  {
     margin-bottom: 0px;
 }
 
-nav {
-    border: 1px solid lightgray;
+/*nav {
     background-color: rgb(208, 204, 204);
-    height: 60px;
     padding-top: 10px;
     padding-right: 20px;
     text-align: right;
     margin-bottom: 20px;
-}
+}*/
 
 ul li {
     display: inline-block;
