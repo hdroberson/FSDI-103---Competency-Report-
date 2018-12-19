@@ -15,6 +15,10 @@ body {
     color: #fff;
 }
 
+h1  {
+    text-align: center;
+}
+
 .container {
     max-width: 960px;
     padding-left: 1rem;
@@ -57,9 +61,18 @@ body {
     margin-bottom: 0px;
 }
 
+nav {
+    border: 1px solid lightgray;
+    background-color: rgb(208, 204, 204);
+    height: 60px;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
 ul li {
     display: inline-block;
-    text-align: right;
     padding: 5px;
 }
 
@@ -68,3 +81,32 @@ li a:hover {
     color: black;
 }
 
+table {
+    margin: 20px;
+    margin-bottom: 40px;
+    padding: 20px;
+    width: 700px;
+}
+
+thead {
+    background-color: lightblue;
+    text-align: left;
+}
+
+tbody {
+    background-color: lightgray;
+    text-align: left;
+}
+
+td {
+    padding-Left: 20px;
+}
+
+.container-form {
+    text-align: left;
+    margin: 40px 20px;
+}
+
+iframe {
+    margin-left: 40px;
+}
